@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnasQ2003?tab=repositories](https://github.com/AnasQ2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/AnasQ2003](github.com/AnasQ2003)
 
 - 📫 How to reach me **anasahmedcp@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anas-ahmed-b22743248/](https://www.linkedin.com/in/anas-ahmed-b22743248/)
-
-- ⚡ Fun fact **Ready for food😎**
+- 📄 Know about my experiences [www.linkedin.com/in/ anas-ahmed-b22743248](www.linkedin.com/in/ anas-ahmed-b22743248)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
