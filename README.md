@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anasahmedcp@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ anas-ahmed-b22743248](www.linkedin.com/in/ anas-ahmed-b22743248)
+- 📄 Know about my experiences www.linkedin.com/in/ anas-ahmed-b22743248
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
