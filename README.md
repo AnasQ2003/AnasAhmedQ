@@ -1,18 +1,112 @@
 <h1 align="center">Hi 👋, I'm Anas Ahmed Qureshi</h1>
-<h3 align="center">A passionate Web and App developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Web development**
+<h3 align="center">
+Full Stack Web Developer | React • Node.js • JavaScript
+</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/AnasQ2003](github.com/AnasQ2003)
-
-- 📫 How to reach me **anasahmedcp@gmail.com**
-
-- 📄 Know about my experiences www.linkedin.com/in/anas-ahmed-b22743248
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anas ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas ahmed" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;React+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+* 🌍 Based in **Pakistan**
+* 💻 Passionate about **Full Stack Web Development**
+* 🚀 Currently learning **Advanced React & Backend Development**
+* 🧠 Interested in **Modern Web Applications and APIs**
+* 🎯 Goal: Become a **Professional Software Engineer**
+
+---
+
+### 🌐 Portfolio & Links
+
+* 💻 GitHub: https://github.com/AnasQ2003
+* 💼 LinkedIn: https://www.linkedin.com/in/anas-ahmed-b22743248
+* 🚀 Live Projects: *(Add your Netlify project link here)*
+
+---
+
+### 📫 Contact Me
+
+* 📧 Email: **[anasahmedcp@gmail.com](mailto:anasahmedcp@gmail.com)**
+
+---
+
+### 👁 Profile Visitors
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AnasQ2003&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+#### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-Developer-orange)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+
+#### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express-Framework-lightgrey)
+
+#### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![SQL Server](https://img.shields.io/badge/SQLServer-Database-red)
+
+#### Tools
+
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow)
+
+---
+
+### 🚀 Featured Project
+
+#### Student Management System
+
+Full Stack CRUD application built with:
+
+React • Node.js • Express • SQL
+
+Repository:
+https://github.com/AnasQ2003/Student-Management-System
+
+Live Demo:
+[(Add your Netlify link here)](https://anasahmedportfolio.netlify.app/)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnasQ2003&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasQ2003&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasQ2003&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasQ2003&theme=tokyo-night"/>
+</p>
+
+---
+
+⭐ *Always learning new technologies and building exciting projects.*
