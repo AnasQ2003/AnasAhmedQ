@@ -83,7 +83,7 @@ Repository:
 https://github.com/AnasQ2003/Student-Management-System
 
 Live Demo:
-[(Add your Netlify link here)](https://anasahmedportfolio.netlify.app/)
+https://anasahmedportfolio.netlify.app/
 
 ---
 
