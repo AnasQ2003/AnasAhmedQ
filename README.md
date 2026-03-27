@@ -23,7 +23,7 @@ Full Stack Web Developer | React • Node.js • JavaScript
 ### 🌐 Portfolio & Links
 
 * 💻 GitHub: https://github.com/AnasQ2003
-* 💼 LinkedIn: https://www.linkedin.com/in/anas-ahmed-b22743248
+* 💼 LinkedIn: [https://www.linkedin.com/in/anas-ahmed-b22743248](https://www.linkedin.com/in/anas-ahmed-qureshi-b22743248/)
 * 🚀 Live Projects: https://anasahmedportfolio.netlify.app/
 
 ---
