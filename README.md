@@ -1,37 +1,31 @@
-<div align="center">
-
-<!-- HERO BANNER — ANIMATED WAVING NAME HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anas%20Ahmed%20Qureshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=22&descAlignY=60&animation=twinkling" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Anas%20Ahmed%20Qureshi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%" alt="Anas Ahmed Qureshi" />
+</p>
 
 <!-- TYPING ANIMATION + GITHUB STATS SIDE BY SIDE -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td width="60%" valign="middle">
+<td width="55%" valign="middle">
 
 <a href="https://github.com/AnasQ2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&vCenter=true&width=700&height=60&lines=Hi+There!+I+am+Anas+Ahmed;Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&vCenter=true&width=600&height=60&lines=Hi+There!+I+am+Anas+Ahmed+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://github.com/AnasQ2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=8B949E&vCenter=true&width=700&height=36&lines=Building+High-Performance+Web+%26+Mobile+Apps;React+%2F+React+Native+%2F+Node.js+%2F+SQL+Server;Passionate+About+Clean+Code+%26+Stunning+UI;Available+for+Freelance+%26+Full-Time+Opportunities" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=8B949E&vCenter=true&width=580&height=36&lines=Building+High-Performance+Web+%26+Mobile+Apps;React+%2F+React+Native+%2F+Node.js+%2F+SQL+Server;Passionate+About+Clean+Code+%26+Stunning+UI;Available+for+Freelance+%26+Full-Time+Roles" alt="Subtitle SVG" />
 </a>
 
 </td>
-<td width="40%" valign="middle" align="right">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnasQ2003&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnasQ2003&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" width="100%" alt="GitHub Stats" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/anas-ahmed-qureshi-b22743248">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -47,27 +41,27 @@
   </a>
 </p>
 
-<!-- STATS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnasQ2003&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />&nbsp;
   <img src="https://img.shields.io/github/followers/AnasQ2003?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />&nbsp;
   <img src="https://img.shields.io/badge/Status-Open_To_Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open To Work" />
 </p>
 
-</div>
+---
+
+<!-- LOFI GIF 1 — Night Coding Balcony (hosted in own repo for guaranteed rendering) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/lofi-balcony.gif" width="80%" alt="Lofi Night Coding — Balcony Scene" />
+</p>
 
 ---
 
-<!-- LOFI BANNER 1 — NIGHT CODING BALCONY (like pic 3) -->
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Lofi Night Coding — Balcony Scene" />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" /> &nbsp; About Me
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
-
-<img align="right" alt="Developer Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Table layout: YAML code left (65%), dev animation right (35%) — properly constrained -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td valign="top" width="65%">
 
 ```yaml
 # Profile
@@ -86,22 +80,27 @@ goal:   Building Web & Mobile Apps
 quote:  "Clean code & seamless UX."
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="35%">
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer Animation" />
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-purple?style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/Mobile_Dev-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-blueviolet?style=for-the-badge&logo=code" />&nbsp;
   <img src="https://img.shields.io/badge/Projects-10%2B_Shipped-brightgreen?style=for-the-badge" />
 </p>
-</div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> &nbsp; Technical Stack & Tooling
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px" /> &nbsp; Technical Stack & Tooling
 
 <div align="center">
 
@@ -329,60 +328,53 @@ quote:  "Clean code & seamless UX."
 
 ## 🌐 &nbsp; 3D Contribution Calendar
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar — Night Rainbow" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px"> &nbsp; Live GitHub Statistics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26px" /> &nbsp; Live GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasQ2003&theme=github_dark" alt="Profile Details" />
+</p>
 
-<!-- Profile Details Overview Card -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasQ2003&theme=github_dark" alt="Profile Details" />
+<p align="center">
+  <img width="50%" src="https://streak-stats.demolab.com?user=AnasQ2003&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasQ2003&theme=github_dark" alt="Stats Card" />
+</p>
 
-<br/><br/>
-
-<!-- Streak Stats + Stats Card -->
-<img width="52%" src="https://streak-stats.demolab.com?user=AnasQ2003&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnasQ2003&theme=github_dark" alt="Stats Card" />
-
-<br/><br/>
-
-<!-- Language Distribution Cards -->
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasQ2003&theme=github_dark" alt="Repos Per Language" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasQ2003&theme=github_dark" alt="Most Commit Language" />
-
-</div>
+<p align="center">
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnasQ2003&theme=github_dark" alt="Repos Per Language" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnasQ2003&theme=github_dark" alt="Most Commit Language" />
+</p>
 
 ---
 
 ## 📈 &nbsp; Contribution Activity Graph
 
-<div align="center">
+<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnasQ2003&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&border_color=30363d&radius=8" alt="Activity Graph" />
-</div>
+</p>
 
 ---
 
 ## 🐍 &nbsp; Contribution Snake Animation
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake-dark.svg" />
   </picture>
-</div>
+</p>
 
 ---
 
 ## 💡 &nbsp; Skills Proficiency Matrix
 
-<div align="center">
+<p align="center">
 
 ```
 HTML5 & CSS3          ████████████████████░   92%   ★★★★★
@@ -396,53 +388,49 @@ Git & Version Control ███████████████████�
 Flutter / Dart        █████████░░░░░░░░░░░░   45%   ★★☆☆☆
 ```
 
-</div>
+</p>
 
 ---
 
-<!-- LOFI BANNER 2 — SUNSET CODING VIBES (like pic 4) -->
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Lofi Sunset Coding Vibes" />
-</div>
+<!-- LOFI GIF 2 — Sunset Coding Vibes (hosted in own repo for guaranteed rendering) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/lofi-sunset.gif" width="80%" alt="Lofi Sunset Coding Vibes" />
+</p>
 
 ---
 
 ## 💬 &nbsp; Developer Quote
 
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%" alt="Quote of the Day" />
-</div>
+</p>
 
 ---
 
 ## 🤝 &nbsp; Connect & Collaborate
 
-<div align="center">
-
 <p align="center">
   <a href="https://linkedin.com/in/anas-ahmed-qureshi-b22743248">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:anasahmedcp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://anasahmedportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" alt="Waving Hand" />
+  &nbsp; <em><b>Looking for a Full Stack or Mobile Developer?</b> Lets build something extraordinary together!</em> &nbsp;
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" alt="Waving Hand" />
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36" alt="Waving Hand" />
-&nbsp; <em><b>Looking for a Full Stack or Mobile Developer?</b> Let's build something extraordinary together!</em> &nbsp;
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36" alt="Waving Hand" />
+<p align="center">
+  <b>Star my repositories if you find them helpful!</b> &nbsp; | &nbsp; <b>Available for freelance &amp; full-time roles</b>
+</p>
 
-<br/><br/>
-
-⭐ **Star my repositories if you find them helpful!** &nbsp; | &nbsp; 💼 **Available for freelance & full-time roles**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+</p>
