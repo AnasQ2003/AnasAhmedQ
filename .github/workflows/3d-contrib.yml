@@ -2,7 +2,9 @@ name: 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # Run daily at 6 AM UTC
+    - cron: "0 6 * * *"
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -17,24 +19,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: AnasQ2003
           MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "AnasQ2003",
-              "paddingX": 30,
-              "paddingY": 20,
-              "type": "SolarSystem",
-              "sizeX": 1920,
-              "sizeY": 1080,
-              "angle": 30,
-              "topNum": 10,
-              "minContributions": 1
-            }
 
       - name: Commit & Push 3D SVG
         run: |
           git config user.email "anasahmedcp@gmail.com"
           git config user.name "AnasQ2003"
           git add -A .
-          git status
-          git commit -m "generate 3D contribution calendar" || echo "Nothing to commit"
+          git commit -m "generate 3D contribution calendar [skip ci]" || echo "Nothing to commit"
           git push
