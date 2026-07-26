@@ -48,25 +48,23 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
 
-<img align="right" alt="Developer Animation" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-# ─── DEVELOPER PROFILE ─────────────────────────────────────────
-  name:        Anas Ahmed Qureshi
-  location:    Karachi, Pakistan 🇵🇰
-  role:        Full Stack Web & Mobile Developer
-  focus:       React, React Native, Node.js, SQL & NoSQL Databases
+# ── Profile ──────────────────────────────
+name:     Anas Ahmed Qureshi
+location: Karachi, Pakistan 🇵🇰
+role:     Full Stack & Mobile Developer
 
-# ─── QUICK HIGHLIGHTS ──────────────────────────────────────────
-  expertise:
-    web:     [ React.js, Node.js, Express, JavaScript ES6+ ]
-    mobile:  [ React Native, Expo, Flutter, Android Studio ]
-    db:      [ SQL Server, MongoDB, MySQL ]
-    tools:   [ Git, GitHub, VS Code, Postman ]
+# ── Expertise ────────────────────────────
+web:    [ React.js, Node.js, Express ]
+mobile: [ React Native, Expo, Flutter ]
+db:     [ SQL Server, MongoDB, MySQL ]
+tools:  [ Git, GitHub, VS Code ]
 
-# ─── CURRENT GOAL ──────────────────────────────────────────────
-  building:  Scalable web & mobile apps with rich 3D animations
-  quote:     "Clean code, intuitive design, seamless user experience."
+# ── Focus ────────────────────────────────
+goal:   Building Web & Mobile Apps
+quote:  "Clean code & seamless UX."
 ```
 
 <br clear="right"/>
