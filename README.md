@@ -1,22 +1,37 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║             ANIMATED HEADER — DEMOLAB (100% RELIABLE)        ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- HERO BANNER — ANIMATED WAVING NAME HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anas%20Ahmed%20Qureshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=22&descAlignY=60&animation=twinkling" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
+
+</div>
+
+<!-- TYPING ANIMATION + GITHUB STATS SIDE BY SIDE -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="middle">
+
 <a href="https://github.com/AnasQ2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=ANAS+AHMED+QURESHI;FULL+STACK+%26+MOBILE+DEVELOPER;REACT+%7C+REACT+NATIVE+%7C+NODE.JS;TURNING+IDEAS+INTO+DIGITAL+REALITY" alt="Anas Ahmed Qureshi Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&vCenter=true&width=700&height=60&lines=Hi+There!+I+am+Anas+Ahmed;Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SUBTITLE ANIMATION -->
 <a href="https://github.com/AnasQ2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=750&height=40&lines=%F0%9F%9A%80+Building+High-Performance+Web+%26+Mobile+Apps;%F0%9F%92%A1+React+%2F+React+Native+%2F+Node.js+%2F+SQL+Server+%2F+MongoDB;%F0%9F%8E%AF+Passionate+About+Clean+Code+%26+Stunning+UI%2FUX;%F0%9F%92%BB+Available+for+Freelance+%26+Full-Time+Opportunities" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=8B949E&vCenter=true&width=700&height=36&lines=Building+High-Performance+Web+%26+Mobile+Apps;React+%2F+React+Native+%2F+Node.js+%2F+SQL+Server;Passionate+About+Clean+Code+%26+Stunning+UI;Available+for+Freelance+%26+Full-Time+Opportunities" alt="Subtitle Typing SVG" />
 </a>
 
-<br/>
+</td>
+<td width="40%" valign="middle" align="right">
 
-<!-- SOCIAL & QUICK ACCESS BADGES -->
+<img src="https://github-readme-stats.vercel.app/api?username=AnasQ2003&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/anas-ahmed-qureshi-b22743248">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,26 +58,30 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                        ABOUT ME                              ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- LOFI BANNER 1 — NIGHT CODING BALCONY (like pic 3) -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Lofi Night Coding — Balcony Scene" />
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
 
 <img align="right" alt="Developer Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-# ── Profile ──────────────────────────────
+# Profile
 name:     Anas Ahmed Qureshi
-location: Karachi, Pakistan 🇵🇰
+location: Karachi, Pakistan
 role:     Full Stack & Mobile Developer
 
-# ── Expertise ────────────────────────────
+# Expertise
 web:    [ React.js, Node.js, Express ]
 mobile: [ React Native, Expo, Flutter ]
 db:     [ SQL Server, MongoDB, MySQL ]
 tools:  [ Git, GitHub, VS Code ]
 
-# ── Focus ────────────────────────────────
+# Focus
 goal:   Building Web & Mobile Apps
 quote:  "Clean code & seamless UX."
 ```
@@ -71,23 +90,17 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- MINIMAL QUICK HIGHLIGHTS BAR -->
 <div align="center">
-
 <p align="center">
-  <img src="https://img.shields.io/badge/💼_Experience-2%2B_Years-purple?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/📱_Mobile_Dev-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/🌐_Web_Dev-Full_Stack-blueviolet?style=for-the-badge&logo=code" />&nbsp;
-  <img src="https://img.shields.io/badge/⚡_Projects-10%2B_Shipped-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-purple?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Mobile_Dev-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-blueviolet?style=for-the-badge&logo=code" />&nbsp;
+  <img src="https://img.shields.io/badge/Projects-10%2B_Shipped-brightgreen?style=for-the-badge" />
 </p>
-
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                     TECH STACK & TOOLS                       ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> &nbsp; Technical Stack & Tooling
 
 <div align="center">
@@ -98,9 +111,7 @@ quote:  "Clean code & seamless UX."
 
 ### 🌐 Frontend & Web
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark&perline=5" alt="Frontend Icons" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -111,9 +122,7 @@ quote:  "Clean code & seamless UX."
 
 ### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Mobile Icons" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -124,10 +133,8 @@ quote:  "Clean code & seamless UX."
 <td align="center">
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4" alt="Backend & DB Icons" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4" alt="Backend Icons" />
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -138,9 +145,7 @@ quote:  "Clean code & seamless UX."
 
 ### 🛠️ Developer Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=5" alt="Tools Icons" />
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -154,12 +159,9 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║             INTERACTIVE SLIDING PROJECTS SHOWCASE            ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🚀 &nbsp; Featured Projects Showcase
 
-> 💡 *Click on any category below to expand and slide through project details!*
+> 💡 *Click on any category below to expand and view project details!*
 
 <details open>
 <summary><b>🌟 Flagship Full-Stack & Animated Applications (Click to collapse/expand)</b></summary>
@@ -245,9 +247,6 @@ quote:  "Clean code & seamless UX."
 <a href="https://github.com/AnasQ2003/Portfolio">
   <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://anasahmedportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -265,9 +264,6 @@ quote:  "Clean code & seamless UX."
 
 <a href="https://github.com/AnasQ2003/Portfolio">
   <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://anasahmedportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 
 </td>
@@ -303,9 +299,6 @@ quote:  "Clean code & seamless UX."
 <a href="https://github.com/AnasQ2003/Portfolio">
   <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://anasahmedportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -324,9 +317,6 @@ quote:  "Clean code & seamless UX."
 <a href="https://github.com/AnasQ2003/Portfolio">
   <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://anasahmedportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
 
 </td>
 </tr>
@@ -337,9 +327,6 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║               3D CONTRIBUTION CALENDAR (SINGLE VIEW)         ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🌐 &nbsp; 3D Contribution Calendar
 
 <div align="center">
@@ -350,9 +337,6 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                  GITHUB STATISTICS & STREAKS                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px"> &nbsp; Live GitHub Statistics
 
 <div align="center">
@@ -376,9 +360,6 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║               CONTRIBUTION ACTIVITY GRAPH                    ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## 📈 &nbsp; Contribution Activity Graph
 
 <div align="center">
@@ -387,9 +368,6 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                 CONTRIBUTION SNAKE ANIMATION                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🐍 &nbsp; Contribution Snake Animation
 
 <div align="center">
@@ -402,32 +380,33 @@ quote:  "Clean code & seamless UX."
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                   SKILLS PROFICIENCY METER                   ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## 💡 &nbsp; Skills Proficiency Matrix
 
 <div align="center">
 
 ```
-HTML5 & CSS3        ████████████████████░   92%   ★★★★★
-JavaScript ES6+     ███████████████████░░   88%   ★★★★★
-React.js            █████████████████░░░░   82%   ★★★★☆
-React Native        ████████████████░░░░░   78%   ★★★★☆
-Node.js & Express   ████████████████░░░░░   76%   ★★★★☆
-SQL Server & MySQL  ██████████████░░░░░░░   72%   ★★★★☆
-MongoDB             █████████████░░░░░░░░   68%   ★★★☆☆
-Git & Version Control████████████████████░   92%   ★★★★★
-Flutter / Dart      █████████░░░░░░░░░░░░   45%   ★★☆☆☆
+HTML5 & CSS3          ████████████████████░   92%   ★★★★★
+JavaScript ES6+       ███████████████████░░   88%   ★★★★★
+React.js              █████████████████░░░░   82%   ★★★★☆
+React Native          ████████████████░░░░░   78%   ★★★★☆
+Node.js & Express     ████████████████░░░░░   76%   ★★★★☆
+SQL Server & MySQL    ██████████████░░░░░░░   72%   ★★★★☆
+MongoDB               █████████████░░░░░░░░   68%   ★★★☆☆
+Git & Version Control ████████████████████░   92%   ★★★★★
+Flutter / Dart        █████████░░░░░░░░░░░░   45%   ★★☆☆☆
 ```
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                    QUOTE OF THE DAY                          ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- LOFI BANNER 2 — SUNSET CODING VIBES (like pic 4) -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Lofi Sunset Coding Vibes" />
+</div>
+
+---
+
 ## 💬 &nbsp; Developer Quote
 
 <div align="center">
@@ -436,9 +415,6 @@ Flutter / Dart      █████████░░░░░░░░░░░
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                     CONNECT & CONTACT                        ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🤝 &nbsp; Connect & Collaborate
 
 <div align="center">
@@ -464,5 +440,9 @@ Flutter / Dart      █████████░░░░░░░░░░░
 <br/><br/>
 
 ⭐ **Star my repositories if you find them helpful!** &nbsp; | &nbsp; 💼 **Available for freelance & full-time roles**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave" />
 
 </div>
