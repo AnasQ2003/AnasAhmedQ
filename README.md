@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<!-- STATS COUNTERS -->
+<!-- STATS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnasQ2003&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />&nbsp;
   <img src="https://img.shields.io/github/followers/AnasQ2003?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />&nbsp;
@@ -46,88 +46,42 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║                        ABOUT ME                              ║
      ╚══════════════════════════════════════════════════════════════╝ -->
-## 👨‍💻 &nbsp; About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
 
-<img align="right" alt="Developer Animation" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer Animation" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
 # ─── DEVELOPER PROFILE ─────────────────────────────────────────
   name:        Anas Ahmed Qureshi
   location:    Karachi, Pakistan 🇵🇰
-  role:        Full Stack Web & Mobile Application Developer
-  experience:  2+ Years of Software Development
+  role:        Full Stack Web & Mobile Developer
+  focus:       React, React Native, Node.js, SQL & NoSQL Databases
 
-# ─── CORE EXPERTISE ────────────────────────────────────────────
-  web_dev:     [ HTML5, CSS3, JavaScript ES6+, React.js, Bootstrap ]
-  mobile_dev:  [ React Native, Expo, Flutter, Android Studio ]
-  backend_dev: [ Node.js, Express.js, RESTful APIs, JWT Auth ]
-  databases:   [ Microsoft SQL Server, MongoDB, MySQL ]
-  tools:       [ Git, GitHub, VS Code, Postman, Linux ]
+# ─── QUICK HIGHLIGHTS ──────────────────────────────────────────
+  expertise:
+    web:     [ React.js, Node.js, Express, JavaScript ES6+ ]
+    mobile:  [ React Native, Expo, Flutter, Android Studio ]
+    db:      [ SQL Server, MongoDB, MySQL ]
+    tools:   [ Git, GitHub, VS Code, Postman ]
 
-# ─── CURRENT FOCUS ──────────────────────────────────────────────
-  current:
-    - Building scalable full-stack web platforms & mobile applications
-    - Engineering robust RESTful APIs with Node.js & Express
-    - Designing optimized SQL & NoSQL database architecture
-    - Creating 3D animated web interfaces & responsive UIs
-
-# ─── PHILOSOPHY ────────────────────────────────────────────────
-  quote: "Clean code, beautiful design, and seamless user experiences."
+# ─── CURRENT GOAL ──────────────────────────────────────────────
+  building:  Scalable web & mobile apps with rich 3D animations
+  quote:     "Clean code, intuitive design, seamless user experience."
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                     WHAT I DO / SERVICES                     ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-## ⚡ &nbsp; Services & Capabilities
-
+<!-- MINIMAL QUICK HIGHLIGHTS BAR -->
 <div align="center">
 
-<table border="0" cellspacing="10" cellpadding="15">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Web Development
-- End-to-end web app development with React.js & Node.js
-- Responsive, modern UIs with smooth animations & dark modes
-- Single Page Applications (SPA) & dynamic dashboards
-- State management, client-side routing & optimized performance
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Cross-Platform Mobile Apps
-- Native-feel iOS & Android mobile apps using React Native & Expo
-- Flutter cross-platform mobile application development
-- Mobile-first responsive UX, touch gestures & device APIs
-- Seamless integration with cloud backends & REST services
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Architecture & APIs
-- High-performance RESTful API engineering with Express.js
-- Secure JWT authentication, authorization & role management
-- Middleware integration, error handling & logging
-- Modular, maintainable server architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 🛢️ Database Engineering & Optimization
-- Relational database design with Microsoft SQL Server & MySQL
-- Document-based NoSQL data modeling with MongoDB
-- Stored procedures, indexing, complex joins & aggregations
-- Data integrity, migrations & real-time synchronization
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/💼_Experience-2%2B_Years-purple?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/📱_Mobile_Dev-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/🌐_Web_Dev-Full_Stack-blueviolet?style=for-the-badge&logo=code" />&nbsp;
+  <img src="https://img.shields.io/badge/⚡_Projects-10%2B_Shipped-brightgreen?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -136,7 +90,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║                     TECH STACK & TOOLS                       ║
      ╚══════════════════════════════════════════════════════════════╝ -->
-## 🛠️ &nbsp; Technical Stack & Tooling
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> &nbsp; Technical Stack & Tooling
 
 <div align="center">
 
@@ -144,7 +98,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🌐 Frontend Technologies
+### 🌐 Frontend & Web
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark&perline=5" alt="Frontend Icons" />
 
 <br/><br/>
@@ -157,7 +111,7 @@
 </td>
 <td align="center" width="50%">
 
-### 📱 Mobile Technologies
+### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Mobile Icons" />
 
 <br/><br/>
@@ -203,45 +157,24 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                  WORK EXPERIENCE & TIMELINE                  ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-## 💼 &nbsp; Career Highlights & Experience
-
-<div align="center">
-
-<table border="0" width="100%" cellspacing="0" cellpadding="15">
-<tr>
-<td align="left">
-
-### 🚀 Full Stack & Mobile Application Developer
-**Freelance & Independent Projects** &nbsp; | &nbsp; *2023 – Present*
-
-- Developed **10+ full-stack web and mobile applications** using React, React Native, Node.js, and SQL Server.
-- Designed real-time interactive user interfaces with **3D animations, particles, custom canvas graphics**, and dynamic filters.
-- Engineered REST APIs with Node.js and Express.js, optimizing database queries for SQL Server, MongoDB, and MySQL.
-- Implemented responsive mobile layouts and cross-platform components for iOS and Android.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║                    FEATURED PROJECTS SHOWCASE               ║
+     ║             INTERACTIVE SLIDING PROJECTS SHOWCASE            ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🚀 &nbsp; Featured Projects Showcase
 
-<div align="center">
+> 💡 *Click on any category below to expand and slide through project details!*
 
+<details open>
+<summary><b>🌟 Flagship Full-Stack & Animated Applications (Click to collapse/expand)</b></summary>
+
+<br/>
+
+<div align="center">
 <table border="0" cellspacing="10" cellpadding="15">
 <tr>
 <td width="50%" valign="top" align="center">
 
 ### 🎓 Student Management System
-*Full-stack administrative management platform with multi-role access, real-time student CRUD operations, grade tracking, and SQL Server database backend.*
+*Full-stack administrative platform with multi-role access, real-time student CRUD operations, grade tracking, and SQL Server backend.*
 
 <br/>
 
@@ -262,8 +195,8 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-### 💼 Personal Portfolio
-*Animated dark-themed portfolio featuring 3D effects, live GitHub contribution heatmaps, project categorization filters, and mobile responsiveness.*
+### 💼 Personal Portfolio Website
+*Animated dark-themed portfolio featuring 3D particle effects, live GitHub contribution heatmaps, project categorization filters, and mobile responsiveness.*
 
 <br/>
 
@@ -283,10 +216,24 @@
 
 </td>
 </tr>
+</table>
+</div>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎬 Entertainment & Real-Time Voting Platforms (Click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="10" cellpadding="15">
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🎬 Cinemora — Streaming Platform
+### 🎬 Cinemora — Movie Streaming Platform
 *Modern movie discovery and streaming web app with media search, genre filtering, rich video player integration, and responsive grid layout.*
 
 <br/>
@@ -327,10 +274,24 @@
 
 </td>
 </tr>
+</table>
+</div>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎫 Ticketing, Booking & Logistics Systems (Click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="10" cellpadding="15">
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🎫 MoveSphere — Seamless Ticket Booking
+### 🎫 MoveSphere — Ticket Booking Platform
 *Full-stack ticket flow platform with event listings, seat selection, booking cart, instant confirmation, and database record management.*
 
 <br/>
@@ -372,25 +333,20 @@
 </td>
 </tr>
 </table>
-
 </div>
+
+</details>
 
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║               3D CONTRIBUTION CALENDAR GALLERY               ║
+     ║               3D CONTRIBUTION CALENDAR (SINGLE VIEW)         ║
      ╚══════════════════════════════════════════════════════════════╝ -->
-## 🌐 &nbsp; 3D Contribution Calendar Gallery
+## 🌐 &nbsp; 3D Contribution Calendar
 
 <div align="center">
 
-### 🌈 Night Rainbow 3D Isometric View
-<img width="100%" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar Night Rainbow" />
-
-<br/><br/>
-
-### 🌿 Green Animate 3D Isometric View
-<img width="100%" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar Green Animate" />
+<img width="100%" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar — Night Rainbow" />
 
 </div>
 
@@ -399,7 +355,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║                  GITHUB STATISTICS & STREAKS                 ║
      ╚══════════════════════════════════════════════════════════════╝ -->
-## 📊 &nbsp; Live GitHub Statistics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px"> &nbsp; Live GitHub Statistics
 
 <div align="center">
 
@@ -494,7 +450,7 @@ Flutter / Dart      █████████░░░░░░░░░░░
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>&nbsp;
   <a href="mailto:anasahmedcp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://anasahmedportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Portfolio" />
