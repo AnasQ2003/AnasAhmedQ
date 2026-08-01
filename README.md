@@ -444,10 +444,11 @@ Flutter / Dart        █████████░░░░░░░░░░�
   </a>
 </p>
 
-<!-- Developer Coding at Desk Animation (3 Monitors) -->
+<!-- Developer Coding Animation (ayush-848 profile format) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70%" alt="Developer Coding at Desk" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="450" alt="Developer Coding Animation" />
 </p>
+
 
 
 
