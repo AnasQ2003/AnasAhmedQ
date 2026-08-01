@@ -1,20 +1,16 @@
 <!-- ═══════════════════ PREMIUM HEADER ═══════════════════ -->
 <div align="center">
 
+<!-- Top animated tech banner -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Tech Animation Banner" />
 
-<h1>👨‍💻 Anas Ahmed Qureshi</h1>
-<h3>🚀 Full Stack &amp; Mobile Developer &nbsp;|&nbsp; 🇵🇰 Karachi, Pakistan</h3>
+<!-- Name INSIDE the banner — dark bg matches the banner black border -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=0&pause=0&color=FFFFFF&background=0d1117&center=true&vCenter=true&repeat=false&width=900&height=90&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Anas+Ahmed+Qureshi" alt="Anas Ahmed Qureshi" />
+
+<!-- Animated subtitle — same dark bg, seamless with name card above -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=58A6FF&background=0d1117&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%9A%80+Full+Stack+%26+Mobile+Developer+%7C+%F0%9F%87%B5%F0%9F%87%B0+Karachi%2C+Pakistan;%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native+%7C+SQL;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality;%F0%9F%8E%A8+Clean+Code+%26+Stunning+UX" alt="Subtitle Animation" />
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality;%F0%9F%8C%90+Building+High-Performance+Web+%26+Mobile+Apps;%F0%9F%8E%A8+Clean+Code+%26+Stunning+UX" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Building+High-Performance+Web+%26+Mobile+Apps+%F0%9F%8C%90;Passionate+about+Clean+Code+%26+Stunning+UX+%F0%9F%8E%A8;Available+for+Freelance+%26+Full-Time+Roles+%F0%9F%92%BC;Based+in+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Subtitle" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Color Wave Divider" />
@@ -443,6 +439,11 @@ Flutter / Dart        █████████░░░░░░░░░░�
   <a href="https://anasahmedportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+<!-- Big lofi sunset coding animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/lofi-sunset.gif" width="90%" alt="Lofi Sunset Coding Vibes" />
 </p>
 
 <p align="center">
