@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Anas%20Ahmed%20Qureshi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%" alt="Anas Ahmed Qureshi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Anas%20Ahmed%20Qureshi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%" alt="Anas Ahmed Qureshi" />
 </p>
 
 <!-- TYPING ANIMATION + GITHUB STATS SIDE BY SIDE -->
@@ -20,7 +20,7 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnasQ2003&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnasQ2003&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" width="100%" alt="GitHub Stats" />
 
 </td>
 </tr>
@@ -355,7 +355,7 @@ quote:  "Clean code & seamless UX."
 ## 📈 &nbsp; Contribution Activity Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnasQ2003&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&border_color=30363d&radius=8" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=AnasQ2003&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&border_color=30363d&radius=8" alt="Activity Graph" />
 </p>
 
 ---
