@@ -177,10 +177,7 @@ quote:  "Clean code & seamless UX."
 
 ## 🚀 &nbsp; Featured Projects Showcase
 
-> 💡 *Click on any category below to expand and view project details!*
-
-<details open>
-<summary><b>🌟 Flagship Full-Stack & Animated Applications (Click to collapse/expand)</b></summary>
+### 🌟 Flagship Full-Stack & Animated Applications
 
 <br/>
 
@@ -235,12 +232,9 @@ quote:  "Clean code & seamless UX."
 </table>
 </div>
 
-</details>
-
 <br/>
 
-<details>
-<summary><b>🎬 Entertainment & Real-Time Voting Platforms (Click to expand)</b></summary>
+### 🎬 Entertainment & Real-Time Voting Platforms
 
 <br/>
 
@@ -287,12 +281,9 @@ quote:  "Clean code & seamless UX."
 </table>
 </div>
 
-</details>
-
 <br/>
 
-<details>
-<summary><b>🎫 Ticketing, Booking & Logistics Systems (Click to expand)</b></summary>
+### 🎫 Ticketing, Booking & Logistics Systems
 
 <br/>
 
@@ -338,8 +329,6 @@ quote:  "Clean code & seamless UX."
 </tr>
 </table>
 </div>
-
-</details>
 
 ---
 
