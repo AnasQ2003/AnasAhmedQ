@@ -66,12 +66,7 @@
 
 ---
 
-<!-- LOFI GIF 1 — Night Coding Balcony (hosted in own repo for guaranteed rendering) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/lofi-balcony.gif" width="80%" alt="Lofi Night Coding — Balcony Scene" />
-</p>
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" /> &nbsp; About Me
 
