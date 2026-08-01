@@ -1,5 +1,20 @@
+<!-- ═══════════════════ PREMIUM HEADER ═══════════════════ -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Tech Animation Banner" />
+
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=120&lines=%E2%9A%A1+Anas+Ahmed+Qureshi+%E2%9A%A1;Full+Stack+%26+Mobile+Developer;React+%7C+Node.js+%7C+React+Native;Building+Digital+Reality" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%8B+Hi%2C+I%27m+Anas+Ahmed+Qureshi!;%F0%9F%9A%80+Full+Stack+%26+Mobile+Developer;%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Building+High-Performance+Web+%26+Mobile+Apps+%F0%9F%8C%90;Passionate+about+Clean+Code+%26+Stunning+UX+%F0%9F%8E%A8;Available+for+Freelance+%26+Full-Time+Roles+%F0%9F%92%BC;Based+in+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Subtitle" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Color Wave Divider" />
 </p>
 
 <!-- TYPING ANIMATION + GITHUB STATS SIDE BY SIDE -->
@@ -83,7 +98,7 @@ quote:  "Clean code & seamless UX."
 </td>
 <td valign="middle" align="center" width="35%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320" alt="Live Developer Coding Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="320" alt="Live Developer Coding Animation" />
 
 </td>
 </tr>
@@ -364,9 +379,9 @@ quote:  "Clean code & seamless UX."
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
