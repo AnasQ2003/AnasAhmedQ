@@ -444,10 +444,11 @@ Flutter / Dart        █████████░░░░░░░░░░�
   </a>
 </p>
 
-<!-- Blue Developer Coding Animation (3 monitors) -->
+<!-- Lofi Sunset Balcony Coding Animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80%" alt="Developer Coding at Desk" />
+  <img src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/lofi-sunset.gif" width="90%" alt="Lofi Sunset Coding Vibes" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" alt="Waving Hand" />
