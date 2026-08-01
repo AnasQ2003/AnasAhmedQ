@@ -447,8 +447,6 @@ Flutter / Dart        █████████░░░░░░░░░░�
 </p>
 
 
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" alt="Waving Hand" />
   &nbsp; <em><b>Looking for a Full Stack or Mobile Developer?</b> Lets build something extraordinary together!</em> &nbsp;
