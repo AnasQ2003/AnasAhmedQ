@@ -6,7 +6,7 @@
 
 <!-- Name permanently displayed below top banner -->
 <h1>👨‍💻 Anas Ahmed Qureshi</h1>
-<h3>🚀 Full Stack &amp; Mobile Developer &nbsp;|&nbsp; 🇵🇰 Karachi, Pakistan</h3>
+<h3>🚀 Full Stack Web &amp; Mobile Developer &nbsp;|&nbsp; 🇵🇰 Karachi, Pakistan</h3>
 
 </div>
 
@@ -79,7 +79,7 @@
 # Profile
 name:     Anas Ahmed Qureshi
 location: Karachi, Pakistan
-role:     Full Stack & Mobile Developer
+role:     Full Stack Web & Mobile Developer
 
 # Expertise
 web:    [ React.js, Node.js, Express ]
