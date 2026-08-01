@@ -384,14 +384,11 @@ quote:  "Clean code & seamless UX."
   <img src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/master/assets/gitbanner.png" width="100%" alt="Developer Game Banner" />
 </p>
 
-<!-- Contribution snake game -->
+<!-- Space Shooter Rocket Game Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/czl9707/czl9707/master/gh-space-shooter.webp" width="100%" alt="Space Shooter Rocket Contribution Game" />
 </p>
+
 
 ---
 
