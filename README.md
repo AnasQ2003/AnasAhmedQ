@@ -4,14 +4,14 @@
 <!-- Top animated tech banner -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Tech Animation Banner" />
 
+<!-- Name permanently displayed below top banner -->
+<h1>👨‍💻 Anas Ahmed Qureshi</h1>
+<h3>🚀 Full Stack &amp; Mobile Developer &nbsp;|&nbsp; 🇵🇰 Karachi, Pakistan</h3>
+
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%91%8B+Hi%2C+I%27m+Anas+Ahmed+Qureshi!;%F0%9F%9A%80+Full+Stack+%26+Mobile+Developer;%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Building+High-Performance+Web+%26+Mobile+Apps+%F0%9F%8C%90;Passionate+about+Clean+Code+%26+Stunning+UX+%F0%9F%8E%A8;Available+for+Freelance+%26+Full-Time+Roles+%F0%9F%92%BC;Based+in+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%92%BB+React+%7C+Node.js+%7C+React+Native+%7C+SQL;%E2%9C%A8+Turning+Ideas+Into+Digital+Reality;%F0%9F%8C%90+Building+High-Performance+Web+%26+Mobile+Apps;%F0%9F%8E%A8+Clean+Code+%26+Stunning+UX" alt="Subtitle Animation" />
 </p>
 
 <p align="center">
