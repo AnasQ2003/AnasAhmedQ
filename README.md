@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Anas%20Ahmed%20Qureshi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=20" width="100%" alt="Anas Ahmed Qureshi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=120&lines=%E2%9A%A1+Anas+Ahmed+Qureshi+%E2%9A%A1;Full+Stack+%26+Mobile+Developer;React+%7C+Node.js+%7C+React+Native;Building+Digital+Reality" alt="Anas Ahmed Qureshi — Full Stack & Mobile Developer" />
 </p>
 
 <!-- TYPING ANIMATION + GITHUB STATS SIDE BY SIDE -->
@@ -81,9 +81,9 @@ quote:  "Clean code & seamless UX."
 ```
 
 </td>
-<td valign="top" align="center" width="35%">
+<td valign="middle" align="center" width="35%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320" alt="Live Developer Coding Animation" />
 
 </td>
 </tr>
@@ -432,5 +432,5 @@ Flutter / Dart        █████████░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=950&height=60&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+find+them+helpful!;Open+to+Freelance+%26+Full-Time+Opportunities+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!+%F0%9F%A4%9D" alt="Footer Message" />
 </p>
