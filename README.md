@@ -465,3 +465,8 @@ Flutter / Dart        █████████░░░░░░░░░░�
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=950&height=60&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+find+them+helpful!;Open+to+Freelance+%26+Full-Time+Opportunities+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!+%F0%9F%A4%9D" alt="Footer Message" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Color Wave Divider" />
+</p>
+
