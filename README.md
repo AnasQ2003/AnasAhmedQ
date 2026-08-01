@@ -76,7 +76,7 @@
 <!-- Table layout: YAML code left (65%), dev animation right (35%) — properly constrained -->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td valign="top" width="65%">
+<td valign="middle" width="65%">
 
 ```yaml
 # Profile
@@ -98,7 +98,7 @@ quote:  "Clean code & seamless UX."
 </td>
 <td valign="middle" align="center" width="35%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="320" alt="Live Developer Coding Animation" />
+<img src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/main/lofi-balcony.gif" width="380" alt="Lofi Night Coding Animation" />
 
 </td>
 </tr>
@@ -377,11 +377,21 @@ quote:  "Clean code & seamless UX."
 
 ## 🐍 &nbsp; Contribution Snake Animation
 
+<!-- Game-style snake (yashksaini-coder format) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake Game Style" src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<!-- Anas's own contribution snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake.svg" />
+    <img alt="My GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnasQ2003/AnasAhmedQ/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
