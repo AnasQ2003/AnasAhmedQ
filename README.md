@@ -419,11 +419,12 @@ Flutter / Dart        █████████░░░░░░░░░░�
 
 ---
 
-## 💬 &nbsp; Developer Quote
+## 💬 &nbsp; Developer Quotes
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%" alt="Quote of the Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1500&color=58A6FF&background=0d1117&center=true&vCenter=true&width=850&height=90&lines=%F0%9F%92%A1+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%E2%9C%A8+%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+%E2%80%94+Robert+C.+Martin;%F0%9F%9A%80+%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%94+Kent+Beck;%F0%9F%A7%A0+%22Simplicity+is+prerequisite+for+reliability.%22+%E2%80%94+Edsger+W.+Dijkstra;%F0%9F%92%BB+%22Good+programmers+write+code+that+humans+can+understand.%22+%E2%80%94+Martin+Fowler" alt="Developer Quotes" />
 </p>
+
 
 ---
 
